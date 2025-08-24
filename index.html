@@ -1,1 +1,68 @@
 # the main webpage
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Alumni Map</title>
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+
+  <!-- Custom Styles -->
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+    #map {
+      height: 100vh;
+      width: 100%;
+    }
+    .popup-content img {
+      width: 100px;
+      border-radius: 8px;
+      margin-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="map"></div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+  <!-- Your Map Script -->
+  <script>
+    // Initialize the map
+    const map = L.map('map').setView([20, 0], 2); // Centered globally
+  
+    // Add OpenStreetMap tiles
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+  
+    // Load alumni data from external JSON file
+    fetch('alumni.json')
+      .then(response => response.json())
+      .then(alumni => {
+        alumni.forEach(alum => {
+          const popupHTML = `
+            <div class="popup-content">
+              <img src="${alum.photo}" alt="${alum.name}" />
+              <strong>${alum.name}</strong><br>
+              <p>${alum.bio}</p>
+            </div>
+          `;
+          L.marker([alum.lat, alum.lon]).addTo(map).bindPopup(popupHTML);
+        });
+      })
+      .catch(error => {
+        console.error('Error loading alumni data:', error);
+      });
+  </script>
+
+
+</body>
+</html>

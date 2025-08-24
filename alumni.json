@@ -1,1 +1,17 @@
 #data file with alumni info (location, name, photo, link, etc.)
+[
+  {
+    "name": "Yan Hu",
+    "lat": 46.8024,
+    "lon": 7.1513,
+    "photo": "images/HuYan.jpg",
+    "bio": "PhD 2017-2024, now post doc at the University of Fribourg."
+  },
+  {
+    "name": "Zhuoyi Zhao",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "photo": "images/Zhuoyi.jpg",
+    "bio": "Graduated 2020, working in Canada."
+  }
+]

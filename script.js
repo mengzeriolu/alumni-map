@@ -2,7 +2,7 @@ fetch('alumni.json')
   .then(res => res.json())
   .then(data => {
     data.forEach(alum => {
-      console.log(alum); // See what each alum object contains
+      console.log(alum); 
       const marker = L.marker([alum.lat, alum.lng]).addTo(map);
       marker.bindPopup(`
         <img src="${alum.photo}" width="100"><br>

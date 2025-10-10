@@ -2,77 +2,77 @@
   {
     "name": "Yan Hu",
     "lat": 46.8024,
-    "lng": 7.1513,
+    "lon": 7.1513,
     "photo": "images/YanHU_original.jpg",
     "bio": "PhD 2017-2024, now post doc at the University of Fribourg."
   },
   {
     "name": "Zhuoyi Zhao",
     "lat": 51.5074,
-    "lng": -0.1278,
+    "lon": -0.1278,
     "photo": "images/zhao_zhuoyi.jpg",
     "bio": "Graduated 2020, working in Canada."
   },
   {
     "name": "Billy Ho Ming Tsang",
     "lat": 22.2838,
-    "lng": 114.1360,
+    "lon": 114.1360,
     "photo": "images/billyhmtsang.jpg",
     "bio": "MPhil 2022-2024, now PhD at the University of Hong Kong."
   },
   {
     "name": "Enze Zhang",
     "lat": 22.3375,
-    "lng": 114.2630,
+    "lon": 114.2630,
     "photo": "images/enze_original.png",
     "bio": "MPhil 2022-2023, now PhD at the Hong Kong University of Science and Technology."
   },
   {
     "name": "Jiahua Zhang",
     "lat": 22.3375,
-    "lng": 114.2630,
+    "lon": 114.2630,
     "photo": "images/jiahua_original.jpg",
     "bio": "PhD 2016-2020, now Postdoc at the University of Conell."
   },
   {
     "name": "Jie Chen",
     "lat": 64.8553,
-    "lng": 147.8347,
+    "lon": 147.8347,
     "photo": "images/jiahua_original.jpg",
     "bio": "PhD 2015-2019, now postdoc at the University of Alaska Fairbanks."
   },
   {
     "name": "Jiangjun Ran",
     "lat": 22.5455,
-    "lng": 114.0683,
+    "lon": 114.0683,
     "photo": "images/jiangjun_original.jpg",
     "bio": "Postdoc 2018, now professor at the Southern University of Science and Technology in China."
   },
   {
     "name": "Xingyu Xu",
     "lat": 30.58333,
-    "lng": 114.26667,
+    "lon": 114.26667,
     "photo": "images/xingyu.JPG",
     "bio": "PhD 2018-2023, now postdoc at the Wuhan University."
   },
   {
     "name": "Xiyu",
     "lat": 29.5628,
-    "lng": 106.5528,
+    "lon": 106.5528,
     "photo": "images/xingyu.JPG",
     "bio": "PhD 2015-2021, now research scientist at the Chongqing Forestry Research Institute."
   },
   {
     "name": "Zhuoyi Zhao",
     "lat": 62.2270,
-    "lng": 105.3809,
+    "lon": 105.3809,
     "photo": "images/zhao_zhuoyi.jpg",
     "bio": "Postdoc 2018-2020, now research scientist somewhere in Canada."
   },
   {
     "name": "Xiaowen Wang",
     "lat": 30.6667,
-    "lng": 104.0667,
+    "lon": 104.0667,
     "photo": "images/zhao_zhuoyi.jpg",
     "bio": "Research Assistant 2015-2016, now Assistant Professor at the Southwestern Jiaotong University in China."
   }

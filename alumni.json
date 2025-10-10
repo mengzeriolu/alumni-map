@@ -29,10 +29,10 @@
   },
   {
     "name": "Jiahua Zhang",
-    "lat": 22.3375,
-    "lon": 114.2630,
+    "lat": 46.6635,
+    "lon": -118.8611,
     "photo": "images/jiahua_original.jpg",
-    "bio": "PhD 2016-2020, now Postdoc at the University of Conell."
+    "bio": "PhD 2016-2020, now Postdoc at the University of Connell."
   },
   {
     "name": "Jie Chen",
@@ -51,15 +51,15 @@
   {
     "name": "Xingyu Xu",
     "lat": 30.58333,
-    "lon": 114.26667,
+    "lon": 114.2666,
     "photo": "images/xingyu.JPG",
-    "bio": "PhD 2018-2023, now postdoc at the Wuhan University."
+    "bio": "PhD 2018-2023, now postdoc at Wuhan University."
   },
   {
     "name": "Xiyu",
     "lat": 29.5628,
     "lon": 106.5528,
-    "photo": "images/xingyu.JPG",
+    "photo": "images/xingyu.jpg",
     "bio": "PhD 2015-2021, now research scientist at the Chongqing Forestry Research Institute."
   },
   {

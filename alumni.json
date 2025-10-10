@@ -4,7 +4,7 @@
     "lat": 46.8024,
     "lon": 7.1513,
     "photo": "images/YanHU_original.jpg",
-    "bio": "PhD 2017-2024, now post doc at the University of Fribourg."
+    "bio": "PhD and HKPFS recipient 2017-2024, now Postdoc at the University of Fribourg."
   },
   {
     "name": "Billy Ho Ming Tsang",
@@ -18,14 +18,14 @@
     "lat": 22.3375,
     "lon": 114.2630,
     "photo": "images/enze_original.png",
-    "bio": "MPhil 2022-2023, now PhD at the Hong Kong University of Science and Technology."
+    "bio": "PhD 2016-2020, now PhD at the Hong Kong University of Science and Technology."
   },
   {
     "name": "Jiahua Zhang",
-    "lat": 44.9497,
-    "lon": -77.3531,
+    "lat": 39.9780,
+    "lon": -105.2751,
     "photo": "images/jiahua_original.jpg",
-    "bio": "PhD 2016-2020, now Postdoc at the University of Connell."
+    "bio": "PhD 2017-2021, now Project Scientist at the University Corporation for Atmospheric Research (UCAR)."
   },
   {
     "name": "Jie Chen",
@@ -39,14 +39,14 @@
     "lat": 22.5455,
     "lon": 114.0630,
     "photo": "images/jiangjun_original.jpg",
-    "bio": "Postdoc 2018, now professor at the Southern University of Science and Technology in China."
+    "bio": "Postdoc 2018, now Associate Professor at the Southern University of Science and Technology in China."
   },
   {
     "name": "Xingyu Xu",
     "lat": 30.58333,
     "lon": 114.2666,
     "photo": "images/xingyu.JPG",
-    "bio": "PhD 2018-2023, now postdoc at Wuhan University."
+    "bio": "PhD and HKPFS recipient 2019-2023, now postdoc at Wuhan University."
   },
   {
     "name": "Xiyu",
@@ -57,16 +57,16 @@
   },
   {
     "name": "Zhuoyi Zhao",
-    "lat": 43.6943,
-    "lon": -79.3905,
+    "lat": 40.0075,
+    "lon": -105.2660,
     "photo": "images/zhao_zhuoyi.jpg",
-    "bio": "Postdoc 2018-2020, now research scientist somewhere in Canada."
+    "bio": "Postdoc 2022-2024, now Postdoc at University of Colorado Boulder."
   },
   {
     "name": "Xiaowen Wang",
     "lat": 30.8024, 
     "lon": 103.9832,
     "photo": "images/Wangxiaowen.jpg",
-    "bio": "Research Assistant 2015-2016, now Assistant Professor at the Southwestern Jiaotong University in China."
+    "bio": "Research Assistant 2015-2016, now Associate Professor at the Southwestern Jiaotong University in China."
   }
 ]

@@ -29,15 +29,15 @@
   },
   {
     "name": "Jiahua Zhang",
-    "lat": 46.6635,
-    "lon": -118.8611,
+    "lat": 44.9497,
+    "lon": -77.3531,
     "photo": "images/jiahua_original.jpg",
     "bio": "PhD 2016-2020, now Postdoc at the University of Connell."
   },
   {
     "name": "Jie Chen",
-    "lat": 64.8553,
-    "lon": -147.7767,
+    "lat": 66.7009,
+    "lon": -146.9715,
     "photo": "images/jiahua_original.jpg",
     "bio": "PhD 2015-2019, now postdoc at the University of Alaska Fairbanks."
   },
@@ -64,16 +64,16 @@
   },
   {
     "name": "Zhuoyi Zhao",
-    "lat": 62.2270,
-    "lon": 105.3809,
+    "lat": 43.6943,
+    "lon": -79.3905,
     "photo": "images/zhao_zhuoyi.jpg",
     "bio": "Postdoc 2018-2020, now research scientist somewhere in Canada."
   },
   {
     "name": "Xiaowen Wang",
-    "lat": 30.6667,
-    "lon": 104.0667,
-    "photo": "images/zhao_zhuoyi.jpg",
+    "lat": 30.8024, 
+    "lon": 103.9832,
+    "photo": "images/wangxiaowen.jpg",
     "bio": "Research Assistant 2015-2016, now Assistant Professor at the Southwestern Jiaotong University in China."
   }
 ]

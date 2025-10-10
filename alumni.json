@@ -7,13 +7,6 @@
     "bio": "PhD 2017-2024, now post doc at the University of Fribourg."
   },
   {
-    "name": "Zhuoyi Zhao",
-    "lat": 51.5074,
-    "lon": -0.1278,
-    "photo": "images/zhao_zhuoyi.jpg",
-    "bio": "Graduated 2020, working in Canada."
-  },
-  {
     "name": "Billy Ho Ming Tsang",
     "lat": 22.2838,
     "lon": 114.1360,
@@ -38,7 +31,7 @@
     "name": "Jie Chen",
     "lat": 66.7009,
     "lon": -146.9715,
-    "photo": "images/jiahua_original.jpg",
+    "photo": "images/Jie.jpg",
     "bio": "PhD 2015-2019, now postdoc at the University of Alaska Fairbanks."
   },
   {
@@ -73,7 +66,7 @@
     "name": "Xiaowen Wang",
     "lat": 30.8024, 
     "lon": 103.9832,
-    "photo": "images/wangxiaowen.jpg",
+    "photo": "images/Wangxiaowen.jpg",
     "bio": "Research Assistant 2015-2016, now Assistant Professor at the Southwestern Jiaotong University in China."
   }
 ]

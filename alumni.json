@@ -246,7 +246,7 @@
     "name": "Yukai HU",
     "lat": 30.2741,
     "lon": 120.1552,
-    "photo": "photo_alumni/yukai.jpg",
+    "photo": "images/yukai.jpg",
     "bio": "MPhil student 2022-2025",
     "group": "Yang"
   },
@@ -254,7 +254,7 @@
     "name": "Junhao SONG",
     "lat": 37.8712,
     "lon": -122.2555,
-    "photo": "photo_alumni/songjunhao.jpg",
+    "photo": "images/songjunhao.jpg",
     "bio": "PhD student 2019-2024, now postdoc at UC Berkeley",
     "group": "Yang"
   },
@@ -262,7 +262,7 @@
     "name": "Aqeel ABBAS",
     "lat": 22.5429,
     "lon": 114.0596,
-    "photo": "photo_alumni/Aqeel_Abbas.jpg",
+    "photo": "images/Aqeel_Abbas.jpg",
     "bio": "PhD student 2020-2024, now postdoc at CUHK-Shenzhen research institute",
     "group": "Yang"
   },
@@ -270,7 +270,7 @@
     "name": "Jinping ZI",
     "lat": 22.5429,
     "lon": 114.0596,
-    "photo": "photo_alumni/zijinping.jpg",
+    "photo": "images/zijinping.jpg",
     "bio": "PhD and HKPFS recipient 2020-2024, now postdoc at CUHK-Shenzhen research institute",
     "group": "Yang"
   },
@@ -278,7 +278,7 @@
     "name": "Tsz Lam Zoe LAU",
     "lat": 22.3193,
     "lon": 114.1694,
-    "photo": "photo_alumni/zoe.jpg",
+    "photo": "images/zoe.jpg",
     "bio": "MPhil student 2022-2024",
     "group": "Yang"
   },
@@ -286,7 +286,7 @@
     "name": "Yuk Po Bowie CHAN",
     "lat": 22.3193,
     "lon": 114.1694,
-    "photo": "photo_alumni/Bowie.jpg",
+    "photo": "images/Bowie.jpg",
     "bio": "MPhil student 2020-2022, now scientific officer at Hong Kong Observatory",
     "group": "Yang"
   },
@@ -294,7 +294,7 @@
     "name": "Han CHEN",
     "lat": 22.5429,
     "lon": 114.0596,
-    "photo": "photo_alumni/chenhan.jpg",
+    "photo": "images/chenhan.jpg",
     "bio": "PhD student 2018-2022, now working at 深圳八方地动科技有限公司",
     "group": "Yang"
   },
@@ -302,7 +302,7 @@
     "name": "Suli YAO",
     "lat": 48.8575,
     "lon": 2.3514,
-    "photo": "photo_alumni/yaosuli.jpg",
+    "photo": "images/yaosuli.jpg",
     "bio": "PhD student 2017-2022 and postdoc 2022-2025, now postdoc at Ecole Normale Superieure",
     "group": "Yang"
   },
@@ -310,7 +310,7 @@
     "name": "Xiang CHEN",
     "lat": 52.3827,
     "lon": 13.0642,
-    "photo": "photo_alumni/chenxiang.jpg",
+    "photo": "images/chenxiang.jpg",
     "bio": "PhD student 2016-2021, now postdoc at The GFZ Helmholtz Centre for Geosciences",
     "group": "Yang"
   },
@@ -318,7 +318,7 @@
     "name": "Pengcheng ZHOU",
     "lat": 23.1291,
     "lon": 113.2644,
-    "photo": "photo_alumni/zhoupengcheng.jpg",
+    "photo": "images/zhoupengcheng.jpg",
     "bio": "PhD student 2016-2020, now research assistant at South China Sea Intitute of Oceanology, Chinese Academy of Sciences, Guangzhou",
     "group": "Yang"
   },
@@ -326,7 +326,7 @@
     "name": "Gaohua ZHU",
     "lat": 36.0662,
     "lon": 120.3830,
-    "photo": "photo_alumni/zhugaohua.jpg",
+    "photo": "images/zhugaohua.jpg",
     "bio": "PhD student 2016-2020, now research professor (100-Talent program) at institute of oceanology, Chinese Academy of Science",
     "group": "Yang"
   },
@@ -334,7 +334,7 @@
     "name": "Jiewen ZHANG",
     "lat": 22.5429,
     "lon": 114.0596,
-    "photo": "photo_alumni/jiewen.jpeg",
+    "photo": "images/jiewen.jpeg",
     "bio": "Postdoc 2021-2025, now visiting scholar at Southern University of Science and Technology",
     "group": "Yang"
   },
@@ -342,7 +342,7 @@
     "name": "Yuyun YANG",
     "lat": 22.3193,
     "lon": 114.1694,
-    "photo": "photo_alumni/yuyun.jpeg",
+    "photo": "images/yuyun.jpeg",
     "bio": "Postdoc 2022-2025, now assistant professor at Lingnan University",
     "group": "Yang"
   },
@@ -350,7 +350,7 @@
     "name": "Wenqiang WANG",
     "lat": 22.5429,
     "lon": 114.0596,
-    "photo": "photo_alumni/wenqiang.jpg",
+    "photo": "images/wenqiang.jpg",
     "bio": "Postdoc 2023-2024, now working at National Supercomputing Center in Shenzhen",
     "group": "Yang"
   },
@@ -358,7 +358,7 @@
     "name": "Chunyu LIU",
     "lat": 39.9042,
     "lon": 116.4074,
-    "photo": "photo_alumni/liuchunyu.jpg",
+    "photo": "images/liuchunyu.jpg",
     "bio": "Postdoc 2020-2022, now assistant research fellow at Institute of Geology and Geophysics, CAS",
     "group": "Yang"
   },
@@ -366,7 +366,7 @@
     "name": "Rumeng GUO",
     "lat": 30.5928,
     "lon": 114.3052,
-    "photo": "photo_alumni/guorumeng.jpg",
+    "photo": "images/guorumeng.jpg",
     "bio": "Postdoc 2020-2021, now associate research fellow at Institute of Geodesy and Geophysics. Chinese Academy of Sciences, Wuhan",
     "group": "Yang"
   },
@@ -374,7 +374,7 @@
     "name": "Xiaohuan JIANG",
     "lat": 30.5928,
     "lon": 114.3052,
-    "photo": "photo_alumni/jiangxiaohuan.jpeg",
+    "photo": "images/jiangxiaohuan.jpeg",
     "bio": "Postdoc 2019-2021, now lecturer at Wuhan Polytechnic University",
     "group": "Yang"
   },
@@ -382,7 +382,7 @@
     "name": "Jiangyang ZHANG",
     "lat": 23.1291,
     "lon": 113.2644,
-    "photo": "photo_alumni/zhangjiangyang.jpeg",
+    "photo": "images/zhangjiangyang.jpeg",
     "bio": "Postdoc 2019-2021, now research assistant at South China Sea Intitute of Oceanology, Chinese Academy of Sciences, Guangzhou",
     "group": "Yang"
   },
@@ -390,7 +390,7 @@
     "name": "Huihui WENG",
     "lat": 32.0584,
     "lon": 118.7965,
-    "photo": "photo_alumni/wenghuihui.jpg",
+    "photo": "images/wenghuihui.jpg",
     "bio": "Postdoc 2015-2018, now assistant professor at Nanjing University",
     "group": "Yang"
   },
@@ -398,7 +398,7 @@
     "name": "Fan ZHANG",
     "lat": 23.1291,
     "lon": 113.2644,
-    "photo": "photo_alumni/zhangfan.jpeg",
+    "photo": "images/zhangfan.jpeg",
     "bio": "Postdoc 2016-2017, now research professor at South China Sea Intitute of Oceanology, Chinese Academy of Sciences, Guangzhou",
     "group": "Yang"
   }

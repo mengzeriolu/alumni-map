@@ -7,6 +7,14 @@ fetch('alumni.json')
       // ✅ Validate coordinates before creating marker
       if (typeof alum.lat === 'number' && typeof alum.lon === 'number') {
         const marker = L.marker([alum.lat, alum.lon]).addTo(map);
+        // Build popup content dynamically
+        let popupContent = `<b>${alum.name}</b><br>${alum.bio}`;
+
+        // Only add photo if it exists
+        if (alum.photo) {
+          popupContent = `<img src="${alum.photo}" width="100"><br>` + popupContent;
+        }
+        
         marker.bindPopup(`
           <img src="${alum.photo}" width="100"><br>
           <b>${alum.name}</b><br>

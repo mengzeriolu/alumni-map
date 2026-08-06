@@ -239,6 +239,9 @@
 
 
 
+
+  
+
   {
     "name": "Yukai HU",
     "lat": 30.2741,
@@ -299,7 +302,7 @@
     "name": "Suli YAO",
     "lat": 48.8575,
     "lon": 2.3514,
-    "photo": "photo_alumni/yao_suli.jpg",
+    "photo": "photo_alumni/yaosuli.jpg",
     "bio": "PhD student 2017-2022 and postdoc 2022-2025, now postdoc at Ecole Normale Superieure",
     "group": "Yang"
   },
@@ -324,22 +327,14 @@
     "lat": 36.0662,
     "lon": 120.3830,
     "photo": "photo_alumni/zhugaohua.jpg",
-    "bio": "PhD student 2016-2020, now research professor (100-Talent program) at Institute of Oceanology, Chinese Academy of Sciences",
-    "group": "Yang"
-  },
-  {
-    "name": "Bing Hun Martin LEE",
-    "lat": 22.3193,
-    "lon": 114.1694,
-    "photo": "photo_alumni/martin.jpg",
-    "bio": "MPhil student 2016-2019",
+    "bio": "PhD student 2016-2020, now research professor (100-Talent program) at institute of oceanology, Chinese Academy of Science",
     "group": "Yang"
   },
   {
     "name": "Jiewen ZHANG",
     "lat": 22.5429,
     "lon": 114.0596,
-    "photo": "photo_alumni/jiewen.jpg",
+    "photo": "photo_alumni/jiewen.jpeg",
     "bio": "Postdoc 2021-2025, now visiting scholar at Southern University of Science and Technology",
     "group": "Yang"
   },
@@ -372,14 +367,14 @@
     "lat": 30.5928,
     "lon": 114.3052,
     "photo": "photo_alumni/guorumeng.jpg",
-    "bio": "Postdoc 2020-2021, now associate research fellow at Institute of Geodesy and Geophysics, Chinese Academy of Sciences, Wuhan",
+    "bio": "Postdoc 2020-2021, now associate research fellow at Institute of Geodesy and Geophysics. Chinese Academy of Sciences, Wuhan",
     "group": "Yang"
   },
   {
     "name": "Xiaohuan JIANG",
     "lat": 30.5928,
     "lon": 114.3052,
-    "photo": "photo_alumni/jiangxiaohuan.jpg",
+    "photo": "photo_alumni/jiangxiaohuan.jpeg",
     "bio": "Postdoc 2019-2021, now lecturer at Wuhan Polytechnic University",
     "group": "Yang"
   },
@@ -387,7 +382,7 @@
     "name": "Jiangyang ZHANG",
     "lat": 23.1291,
     "lon": 113.2644,
-    "photo": "photo_alumni/zhangjiangyang.jpg",
+    "photo": "photo_alumni/zhangjiangyang.jpeg",
     "bio": "Postdoc 2019-2021, now research assistant at South China Sea Intitute of Oceanology, Chinese Academy of Sciences, Guangzhou",
     "group": "Yang"
   },
@@ -403,10 +398,12 @@
     "name": "Fan ZHANG",
     "lat": 23.1291,
     "lon": 113.2644,
-    "photo": "photo_alumni/zhangfan.jpg",
+    "photo": "photo_alumni/zhangfan.jpeg",
     "bio": "Postdoc 2016-2017, now research professor at South China Sea Intitute of Oceanology, Chinese Academy of Sciences, Guangzhou",
     "group": "Yang"
   }
 ]
+
+
 
 

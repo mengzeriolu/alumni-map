@@ -4,135 +4,409 @@
     "lat": 36.2400,
     "lon": 94.5400,
     "photo": "images/xiaofanzhu.jpg",
-    "bio": "Postdoc (2022), now Associate Researcher at Northwest Institute of Eco Environment and Resources, Chinese Academy of Sciences."
+    "bio": "Postdoc (2022), now Associate Researcher at Northwest Institute of Eco Environment and Resources, Chinese Academy of Sciences.",
+    "group": "Lin Liu"
   },
   {
     "name": "Zhiwei Zhou",
     "lat": 30.5753,
     "lon": 114.3665,
     "photo": "images/zhiweizhou.jpg",
-    "bio": "Postdoc(2017-18), now Associate Researcher at Innovation Academy for Precision Measurement Science and Technology, Chinese Academy of Sciences."
+    "bio": "Postdoc (2017–18), now Associate Researcher at Innovation Academy for Precision Measurement Science and Technology, Chinese Academy of Sciences.",
+    "group": "Lin Liu"
   },
   {
     "name": "Bao Zhang",
     "lat": 30.5396,
     "lon": 114.3643,
-    "photo": "images_baozhang.png",
-    "bio": "Postdoc(2017-18), now Associate Professor at Wuhan University."
+    "photo": "images/baozhang.png",
+    "bio": "Postdoc (2017–18), now Associate Professor at Wuhan University.",
+    "group": "Lin Liu"
   },
   {
     "name": "Joseph Ma Ho Yin",
     "lat": 31.4379,
     "lon": 121.4665,
     "photo": "images/MaHoYin.jpg",
-    "bio": " MPhil student (2014-16), later PhD at National University of Singapore, now Principal Scientist at Halliburton."
+    "bio": "MPhil student (2014–16), later PhD at National University of Singapore, now Principal Scientist at Halliburton.",
+    "group": "Lin Liu"
   },
   {
     "name": "Guoyan Jiang",
     "lat": 30.5396,
     "lon": 114.3643,
     "photo": "images/guoyanjiang.jpeg",
-    "bio": "Postdoc (2017-19, jointly supervised with Teng-fong Wong), now Professor at Wuhan University."
+    "bio": "Postdoc (2017–19, jointly supervised with Teng-fong Wong), now Professor at Wuhan University.",
+    "group": "Lin Liu"
   },
   {
     "name": "Lingcao Huang",
     "lat": 22.4197,
     "lon": 114.2068,
     "photo": "images/lingcaohuang.jpg",
-    "bio": "PhD student (2016-19), now Research Assistant Professor at The Chinese University of Hong Kong."
+    "bio": "PhD student (2016–19), now Research Assistant Professor at The Chinese University of Hong Kong.",
+    "group": "Lin Liu"
   },
-    {
+  {
     "name": "Yufeng Hu",
     "lat": 34.2319,
     "lon": 108.9567,
     "photo": "images/yufenghu.jpg",
-    "bio": "Research Assistant (2017-18), now Associate Professor at Chang'an University."
+    "bio": "Research Assistant (2017–18), now Associate Professor at Chang'an University.",
+    "group": "Lin Liu"
   },
   {
     "name": "Bo Hu",
     "lat": 23.0336,
     "lon": 113.3970,
     "photo": "images/bohu.jpg",
-    "bio": "Postdoc (2015),now Professor at Guangdong University of Technology."
+    "bio": "Postdoc (2015), now Professor at Guangdong University of Technology.",
+    "group": "Lin Liu"
   },
   {
     "name": "Kenneth Ho Ngai Lun",
     "lat": 50.9374,
-    "lon":-1.3977,
+    "lon": -1.3977,
     "photo": "images/XXXXX.jpg",
-    "bio": "Research Assistant (2017-18),now Master Student at University of Southampton"
+    "bio": "Research Assistant (2017–18), now Master Student at University of Southampton.",
+    "group": "Lin Liu"
   },
-
-
   {
     "name": "Yan Hu",
     "lat": 46.8024,
     "lon": 7.1513,
     "photo": "images/YanHU_original.jpg",
-    "bio": "PhD and HKPFS recipient 2017-2024, now Postdoc at the University of Fribourg."
+    "bio": "PhD and HKPFS recipient 2017–2024, now Postdoc at the University of Fribourg.",
+    "group": "Lin Liu"
   },
   {
     "name": "Billy Ho Ming Tsang",
     "lat": 22.2838,
     "lon": 114.1360,
     "photo": "images/billyhmtsang.jpg",
-    "bio": "MPhil 2022-2024, now PhD at the University of Hong Kong."
+    "bio": "MPhil (2022–2024), now PhD at the University of Hong Kong.",
+    "group": "Lin Liu"
   },
   {
     "name": "Enze Zhang",
     "lat": 22.3375,
     "lon": 114.2630,
     "photo": "images/enze_original.png",
-    "bio": "PhD 2016-2020, now Postdoc at the Hong Kong University of Science and Technology."
+    "bio": "PhD (2016–2020), now Postdoc at the Hong Kong University of Science and Technology.",
+    "group": "Lin Liu"
   },
   {
     "name": "Jiahua Zhang",
     "lat": 39.9780,
     "lon": -105.2751,
     "photo": "images/jiahua_original.jpg",
-    "bio": "PhD 2017-2021, now Project Scientist at the University Corporation for Atmospheric Research (UCAR)."
+    "bio": "PhD (2017–2021), now Project Scientist at the University Corporation for Atmospheric Research (UCAR).",
+    "group": "Lin Liu"
   },
   {
     "name": "Jie Chen",
     "lat": 66.7009,
     "lon": -146.9715,
     "photo": "images/Jie.jpg",
-    "bio": "PhD 2015-2019, now postdoc at the University of Alaska Fairbanks."
+    "bio": "PhD (2015–2019), now Postdoc at the University of Alaska Fairbanks.",
+    "group": "Lin Liu"
   },
   {
     "name": "Jiangjun Ran",
     "lat": 22.5455,
     "lon": 114.0630,
     "photo": "images/jiangjun_original.jpg",
-    "bio": "Postdoc 2018, now Associate Professor at the Southern University of Science and Technology in China."
+    "bio": "Postdoc (2018), now Associate Professor at the Southern University of Science and Technology in China.",
+    "group": "Lin Liu"
   },
   {
     "name": "Xingyu Xu",
     "lat": 30.58333,
     "lon": 114.2666,
     "photo": "images/xingyu.JPG",
-    "bio": "PhD and HKPFS recipient 2019-2023, now postdoc at Wuhan University."
+    "bio": "PhD and HKPFS recipient (2019–2023), now Postdoc at Wuhan University.",
+    "group": "Lin Liu"
   },
   {
     "name": "Xiyu",
     "lat": 29.5628,
     "lon": 106.5528,
     "photo": "images/xiyu.jpg",
-    "bio": "PhD 2015-2021, now research scientist at the Chongqing Forestry Research Institute."
+    "bio": "PhD (2015–2021), now Research Scientist at the Chongqing Forestry Research Institute.",
+    "group": "Lin Liu"
   },
   {
     "name": "Zhuoyi Zhao",
     "lat": 40.0075,
     "lon": -105.2660,
     "photo": "images/zhao_zhuoyi.jpg",
-    "bio": "Postdoc 2022-2024, now Postdoc at University of Colorado Boulder."
+    "bio": "Postdoc (2022–2024), now Postdoc at University of Colorado Boulder.",
+    "group": "Lin Liu"
   },
   {
     "name": "Xiaowen Wang",
-    "lat": 30.8024, 
+    "lat": 30.8024,
     "lon": 103.9832,
     "photo": "images/Wangxiaowen.jpg",
-    "bio": "Research Assistant 2015-2016, now Associate Professor at the Southwestern Jiaotong University in China."
+    "bio": "Research Assistant (2015–2016), now Associate Professor at the Southwestern Jiaotong University in China.",
+    "group": "Lin Liu"
   },
+  {
+    "name": "Zhangyu Sun",
+    "lat": 32.0544,
+    "lon": 118.7568,
+    "photo": "images/sunzhangyu.jpg",
+    "bio": "PhD (2021–2025), now Lecturer at Hohai University.",
+    "group": "Lin Liu"
+  },
+
+
+
   
+  {
+    "name": "NG, Sze In Madeleine",
+    "lat": 33.77812175776968,
+    "lon": -84.39788870213357,
+    "photo": "images/NG_SzeInMadeleine.jpg",
+    "bio": "PhD student (08/2020–04/2024), now Postdoctoral Fellow at Georgia Institute of Technology, USA.",
+    "group": "Man Nin"
+  },
+  {
+    "name": "Xing, Sinan",
+    "lat": 22.347052394488184,
+    "lon": 114.13964424203262,
+    "photo": "images/Xing_Sinan.jpg",
+    "bio": "MPhil student (08/2021–07/2024), now Tutor at an Education Center in Hong Kong.",
+    "group": "Man Nin"
+  },
+  {
+    "name": "XU, Rongshuang",
+    "lat": 32.208895934243905,
+    "lon": 118.72592602096593,
+    "photo": "images/XU_Rongshuang.jpg",
+    "bio": "PhD student (07/2018–07/2022), now Lecturer at Nanjing University of Information Science & Technology, China.",
+    "group": "Man Nin"
+  },
+  {
+    "name": "Poon Hon Yin",
+    "lat": 22.33806151226052,
+    "lon": 114.17548804415057,
+    "photo": "images/Poon_HonYin.jpg",
+    "bio": "MPhil student (08/2020–10/2022), now Officer at Business Environmental Council, Hong Kong.",
+    "group": "Man Nin"
+  },
+  {
+    "name": "NG Tsin-hung",
+    "lat": 22.420247828179342,
+    "lon": 114.20678531031584,
+    "photo": "images/NG_Tsinhung.jpg",
+    "bio": "MPhil student (08/2019–07/2021), now Postdoctoral Fellow at CUHK, Hong Kong.",
+    "group": "Man Nin"
+  },
+  {
+    "name": "LAM, Hoi Ki",
+    "lat": 22.421302821877198,
+    "lon": 114.20445239559318,
+    "photo": "images/LAM_HoiKi.jpg",
+    "bio": "MPhil student (07/2018–07/2020), now Project Coordinator at CUHK Department of Social Work, Hong Kong.",
+    "group": "Man Nin"
+  },
+  {
+    "name": "KWONG, Kai Chung",
+    "lat": 22.306457071362534,
+    "lon": 114.2496036310954,
+    "photo": "images/KWONG_KaiChung.jpg",
+    "bio": "MPhil student (07/2017–07/2019), now High School Math Teacher at HKCCCU Logos Academy, Hong Kong.",
+    "group": "Man Nin"
+  },
+  {
+    "name": "CHIM, Man Mei",
+    "lat": 50.737197982118786,
+    "lon": -3.535147503073853,
+    "photo": "images/CHIM_ManMei.jpg",
+    "bio": "MPhil student (08/2016–07/2018), now Postdoctoral Fellow at University of Exeter, United Kingdom.",
+    "group": "Man Nin"
+  },
+  {
+    "name": "CHENG, Chiu Tung",
+    "lat": 35.66821866684723,
+    "lon": 139.73964165747,
+    "photo": "images/CHENG_ChiuTung.jpg",
+    "bio": "MPhil student (08/2014–07/2016), now Software Developer at Enthought, Japan.",
+    "group": "Man Nin"
+  },
+
+
+
+
+  {
+    "name": "Yukai HU",
+    "lat": 30.2741,
+    "lon": 120.1552,
+    "photo": "photo_alumni/yukai.jpg",
+    "bio": "MPhil student 2022-2025",
+    "group": "Yang"
+  },
+  {
+    "name": "Junhao SONG",
+    "lat": 37.8712,
+    "lon": -122.2555,
+    "photo": "photo_alumni/songjunhao.jpg",
+    "bio": "PhD student 2019-2024, now postdoc at UC Berkeley",
+    "group": "Yang"
+  },
+  {
+    "name": "Aqeel ABBAS",
+    "lat": 22.5429,
+    "lon": 114.0596,
+    "photo": "photo_alumni/Aqeel_Abbas.jpg",
+    "bio": "PhD student 2020-2024, now postdoc at CUHK-Shenzhen research institute",
+    "group": "Yang"
+  },
+  {
+    "name": "Jinping ZI",
+    "lat": 22.5429,
+    "lon": 114.0596,
+    "photo": "photo_alumni/zijinping.jpg",
+    "bio": "PhD and HKPFS recipient 2020-2024, now postdoc at CUHK-Shenzhen research institute",
+    "group": "Yang"
+  },
+  {
+    "name": "Tsz Lam Zoe LAU",
+    "lat": 22.3193,
+    "lon": 114.1694,
+    "photo": "photo_alumni/zoe.jpg",
+    "bio": "MPhil student 2022-2024",
+    "group": "Yang"
+  },
+  {
+    "name": "Yuk Po Bowie CHAN",
+    "lat": 22.3193,
+    "lon": 114.1694,
+    "photo": "photo_alumni/Bowie.jpg",
+    "bio": "MPhil student 2020-2022, now scientific officer at Hong Kong Observatory",
+    "group": "Yang"
+  },
+  {
+    "name": "Han CHEN",
+    "lat": 22.5429,
+    "lon": 114.0596,
+    "photo": "photo_alumni/chenhan.jpg",
+    "bio": "PhD student 2018-2022, now working at 深圳八方地动科技有限公司",
+    "group": "Yang"
+  },
+  {
+    "name": "Suli YAO",
+    "lat": 48.8575,
+    "lon": 2.3514,
+    "photo": "photo_alumni/yao_suli.jpg",
+    "bio": "PhD student 2017-2022 and postdoc 2022-2025, now postdoc at Ecole Normale Superieure",
+    "group": "Yang"
+  },
+  {
+    "name": "Xiang CHEN",
+    "lat": 52.3827,
+    "lon": 13.0642,
+    "photo": "photo_alumni/chenxiang.jpg",
+    "bio": "PhD student 2016-2021, now postdoc at The GFZ Helmholtz Centre for Geosciences",
+    "group": "Yang"
+  },
+  {
+    "name": "Pengcheng ZHOU",
+    "lat": 23.1291,
+    "lon": 113.2644,
+    "photo": "photo_alumni/zhoupengcheng.jpg",
+    "bio": "PhD student 2016-2020, now research assistant at South China Sea Intitute of Oceanology, Chinese Academy of Sciences, Guangzhou",
+    "group": "Yang"
+  },
+  {
+    "name": "Gaohua ZHU",
+    "lat": 36.0662,
+    "lon": 120.3830,
+    "photo": "photo_alumni/zhugaohua.jpg",
+    "bio": "PhD student 2016-2020, now research professor (100-Talent program) at Institute of Oceanology, Chinese Academy of Sciences",
+    "group": "Yang"
+  },
+  {
+    "name": "Bing Hun Martin LEE",
+    "lat": 22.3193,
+    "lon": 114.1694,
+    "photo": "photo_alumni/martin.jpg",
+    "bio": "MPhil student 2016-2019",
+    "group": "Yang"
+  },
+  {
+    "name": "Jiewen ZHANG",
+    "lat": 22.5429,
+    "lon": 114.0596,
+    "photo": "photo_alumni/jiewen.jpg",
+    "bio": "Postdoc 2021-2025, now visiting scholar at Southern University of Science and Technology",
+    "group": "Yang"
+  },
+  {
+    "name": "Yuyun YANG",
+    "lat": 22.3193,
+    "lon": 114.1694,
+    "photo": "photo_alumni/yuyun.jpeg",
+    "bio": "Postdoc 2022-2025, now assistant professor at Lingnan University",
+    "group": "Yang"
+  },
+  {
+    "name": "Wenqiang WANG",
+    "lat": 22.5429,
+    "lon": 114.0596,
+    "photo": "photo_alumni/wenqiang.jpg",
+    "bio": "Postdoc 2023-2024, now working at National Supercomputing Center in Shenzhen",
+    "group": "Yang"
+  },
+  {
+    "name": "Chunyu LIU",
+    "lat": 39.9042,
+    "lon": 116.4074,
+    "photo": "photo_alumni/liuchunyu.jpg",
+    "bio": "Postdoc 2020-2022, now assistant research fellow at Institute of Geology and Geophysics, CAS",
+    "group": "Yang"
+  },
+  {
+    "name": "Rumeng GUO",
+    "lat": 30.5928,
+    "lon": 114.3052,
+    "photo": "photo_alumni/guorumeng.jpg",
+    "bio": "Postdoc 2020-2021, now associate research fellow at Institute of Geodesy and Geophysics, Chinese Academy of Sciences, Wuhan",
+    "group": "Yang"
+  },
+  {
+    "name": "Xiaohuan JIANG",
+    "lat": 30.5928,
+    "lon": 114.3052,
+    "photo": "photo_alumni/jiangxiaohuan.jpg",
+    "bio": "Postdoc 2019-2021, now lecturer at Wuhan Polytechnic University",
+    "group": "Yang"
+  },
+  {
+    "name": "Jiangyang ZHANG",
+    "lat": 23.1291,
+    "lon": 113.2644,
+    "photo": "photo_alumni/zhangjiangyang.jpg",
+    "bio": "Postdoc 2019-2021, now research assistant at South China Sea Intitute of Oceanology, Chinese Academy of Sciences, Guangzhou",
+    "group": "Yang"
+  },
+  {
+    "name": "Huihui WENG",
+    "lat": 32.0584,
+    "lon": 118.7965,
+    "photo": "photo_alumni/wenghuihui.jpg",
+    "bio": "Postdoc 2015-2018, now assistant professor at Nanjing University",
+    "group": "Yang"
+  },
+  {
+    "name": "Fan ZHANG",
+    "lat": 23.1291,
+    "lon": 113.2644,
+    "photo": "photo_alumni/zhangfan.jpg",
+    "bio": "Postdoc 2016-2017, now research professor at South China Sea Intitute of Oceanology, Chinese Academy of Sciences, Guangzhou",
+    "group": "Yang"
+  }
 ]
+
+

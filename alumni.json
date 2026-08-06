@@ -1,5 +1,70 @@
 [
   {
+    "name": "Xiaofan Zhu",
+    "lat": 36.2400,
+    "lon": 94.5400,
+    "photo": "images/xiaofanzhu.jpg",
+    "bio": "Postdoc (2022), now Associate Researcher at Northwest Institute of Eco Environment and Resources, Chinese Academy of Sciences."
+  },
+  {
+    "name": "Zhiwei Zhou",
+    "lat": 30.5753,
+    "lon": 114.3665,
+    "photo": "images/zhiweizhou.jpg",
+    "bio": "Postdoc(2017-18), now Associate Researcher at Innovation Academy for Precision Measurement Science and Technology, Chinese Academy of Sciences."
+  },
+  {
+    "name": "Bao Zhang",
+    "lat": 30.5396,
+    "lon": 114.3643,
+    "photo": "images_baozhang.png",
+    "bio": "Postdoc(2017-18), now Associate Professor at Wuhan University."
+  },
+  {
+    "name": "Joseph Ma Ho Yin",
+    "lat": 31.4379,
+    "lon": 121.4665,
+    "photo": "images/MaHoYin.jpg",
+    "bio": " MPhil student (2014-16), later PhD at National University of Singapore, now Principal Scientist at Halliburton."
+  },
+  {
+    "name": "Guoyan Jiang",
+    "lat": 30.5396,
+    "lon": 114.3643,
+    "photo": "images/guoyanjiang.jpeg",
+    "bio": "Postdoc (2017-19, jointly supervised with Teng-fong Wong), now Professor at Wuhan University."
+  },
+  {
+    "name": "Lingcao Huang",
+    "lat": 22.4197,
+    "lon": 114.2068,
+    "photo": "images/lingcaohuang.jpg",
+    "bio": "PhD student (2016-19), now Research Assistant Professor at The Chinese University of Hong Kong."
+  },
+    {
+    "name": "Yufeng Hu",
+    "lat": 34.2319,
+    "lon": 108.9567,
+    "photo": "images/yufenghu.jpg",
+    "bio": "Research Assistant (2017-18), now Associate Professor at Chang'an University."
+  },
+  {
+    "name": "Bo Hu",
+    "lat": 23.0336,
+    "lon": 113.3970,
+    "photo": "images/bohu.jpg",
+    "bio": "Postdoc (2015),now Professor at Guangdong University of Technology."
+  },
+  {
+    "name": "Kenneth Ho Ngai Lun",
+    "lat": 50.9374,
+    "lon":-1.3977,
+    "photo": "images/XXXXX.jpg",
+    "bio": "Research Assistant (2017-18),now Master Student at University of Southampton"
+  },
+
+
+  {
     "name": "Yan Hu",
     "lat": 46.8024,
     "lon": 7.1513,
@@ -68,5 +133,6 @@
     "lon": 103.9832,
     "photo": "images/Wangxiaowen.jpg",
     "bio": "Research Assistant 2015-2016, now Associate Professor at the Southwestern Jiaotong University in China."
-  }
+  },
+  
 ]

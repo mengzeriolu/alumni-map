@@ -10,15 +10,17 @@ fetch('alumni.json')
           ? alum.photo
           : "images/default-placeholder.png"; // <-- your default image path
 
-        // Build popup content
+        // onerror automatically swaps in default-placeholder.png if the photo file is missing
         const popupContent = `
-          <img src="${photoUrl}" width="100" style="margin-bottom:5px;"><br>
+          <img src="${photoUrl}" 
+               width="100" 
+               style="margin-bottom:5px; display:block;" 
+               onerror="this.onerror=null; this.src='images/default-placeholder.png';"><br>
           <b>${alum.name}</b><br>
           ${alum.bio}
         `;
+
         marker.bindPopup(popupContent);
-      } else {
-        console.warn(`Skipping invalid location for: ${alum.name}`, alum);
       }
     });
   })

@@ -10,9 +10,15 @@ fetch('alumni.json')
         // Build popup content dynamically
         let popupContent = `<b>${alum.name}</b><br>${alum.bio}`;
 
-        // Only add photo if it exists
-        if (alum.photo && alum.photo.trim() !== '') {
-          popupContent = `<img src="${alum.photo}" width="100"><br>` + popupContent;
+        // 1. Strict check: Must exist, be a string, and not be empty/null
+        if (
+          alum.photo && 
+          typeof alum.photo === 'string' && 
+          alum.photo.trim() !== '' && 
+          alum.photo !== 'null'
+        ) {
+          // 2. onerror="this.remove()" deletes the broken image icon if the file isn't found
+          popupContent = `<img src="${alum.photo}" width="100" style="display:block; margin-bottom:5px;" onerror="this.remove();"><br>` + popupContent;
         }
         
         // ✅ Use popupContent instead of hard‑coding

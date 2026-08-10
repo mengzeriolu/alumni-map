@@ -48,14 +48,21 @@
     .then(response => response.json())
     .then(alumni => {
       alumni.forEach(alum => {
-        // Decide which image to use
-        const photoUrl = (alum.photo && alum.photo.trim() !== "")
-          ? alum.photo
-          : "images/default-placeholder.png"; // <-- path to your default image
+        // Decide image: actual photo or fallback
+        let photoHTML = "";
+        if (alum.photo && alum.photo.trim() !== "") {
+          photoHTML = `<img src="${alum.photo}" alt="${alum.name}" />`;
+        } else {
+          // Option 1: show nothing
+          // photoHTML = "";
+
+          // Option 2: show a default placeholder
+          photoHTML = `<img src="images/default-placeholder.png" alt="No photo available" />`;
+        }
 
         const popupHTML = `
           <div class="popup-content">
-            <img src="${photoUrl}" alt="${alum.name}" />
+            ${photoHTML}
             <strong>${alum.name}</strong><br>
             <p>${alum.bio}</p>
           </div>

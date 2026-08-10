@@ -5,14 +5,17 @@ fetch('alumni.json')
       if (typeof alum.lat === 'number' && typeof alum.lon === 'number') {
         const marker = L.marker([alum.lat, alum.lon]).addTo(map);
 
-        // Build popup content dynamically
-        let popupContent = `<b>${alum.name}</b><br>${alum.bio}`;
+        // Decide which image to use
+        const photoUrl = (alum.photo && alum.photo.trim() !== "")
+          ? alum.photo
+          : "images/default-placeholder.png"; // <-- your default image path
 
-        // Only add photo if it exists and is non-empty
-        if (alum.photo && alum.photo.trim() !== "") {
-          popupContent = `<img src="${alum.photo}" width="100" style="margin-bottom:5px;"><br>` + popupContent;
-        }
-
+        // Build popup content
+        const popupContent = `
+          <img src="${photoUrl}" width="100" style="margin-bottom:5px;"><br>
+          <b>${alum.name}</b><br>
+          ${alum.bio}
+        `;
         marker.bindPopup(popupContent);
       } else {
         console.warn(`Skipping invalid location for: ${alum.name}`, alum);

@@ -11,7 +11,7 @@ fetch('alumni.json')
         let popupContent = `<b>${alum.name}</b><br>${alum.bio}`;
 
         // Only add photo if it exists
-        if (alum.photo) {
+        if (alum.photo && alum.photo.trim() !== '') {
           popupContent = `<img src="${alum.photo}" width="100"><br>` + popupContent;
         }
         

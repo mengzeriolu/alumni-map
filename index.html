@@ -43,20 +43,26 @@
       attribution: '&copy; OpenStreetMap contributors'
     }).addTo(map);
   
-    // Load alumni data from external JSON file
-    fetch('alumni.json')
-      .then(response => response.json())
-      .then(alumni => {
-        alumni.forEach(alum => {
-          const popupHTML = `
-            <div class="popup-content">
-              <img src="${alum.photo}" alt="${alum.name}" />
-              <strong>${alum.name}</strong><br>
-              <p>${alum.bio}</p>
-            </div>
-          `;
-          L.marker([alum.lat, alum.lon]).addTo(map).bindPopup(popupHTML);
-        });
+  // Load alumni data
+  fetch('alumni.json')
+    .then(response => response.json())
+    .then(alumni => {
+      alumni.forEach(alum => {
+        // Decide which image to use
+        const photoUrl = (alum.photo && alum.photo.trim() !== "")
+          ? alum.photo
+          : "images/default-placeholder.png"; // <-- path to your default image
+
+        const popupHTML = `
+          <div class="popup-content">
+            <img src="${photoUrl}" alt="${alum.name}" />
+            <strong>${alum.name}</strong><br>
+            <p>${alum.bio}</p>
+          </div>
+        `;
+
+        L.marker([alum.lat, alum.lon]).addTo(map).bindPopup(popupHTML);
+      });
       })
       .catch(error => {
         console.error('Error loading alumni data:', error);

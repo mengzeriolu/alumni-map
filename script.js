@@ -15,11 +15,8 @@ fetch('alumni.json')
           popupContent = `<img src="${alum.photo}" width="100"><br>` + popupContent;
         }
         
-        marker.bindPopup(`
-          <img src="${alum.photo}" width="100"><br>
-          <b>${alum.name}</b><br>
-          ${alum.bio}
-        `);
+        // ✅ Use popupContent instead of hard‑coding
+        marker.bindPopup(popupContent);
       } else {
         console.warn(`Skipping invalid location for: ${alum.name}`, alum);
       }

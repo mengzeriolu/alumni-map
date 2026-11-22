@@ -7,4 +7,4 @@ I stored alumni metadata such as names, current institution/company, current loc
 
 I used JavaScript, the Leaflet mapping library, and OpenStreetMap tiles for geospatial presentation. 
 
-The website dynamically loads the alumni dataset with map markers using latitude and longitude coordinates, and generated pop-up windows showing the alumnus profile when users clicked a marker.
+The website loads the alumni dataset with map markers attributed with latitude and longitude coordinates, and generated pop-up windows showing the alumnus profile when users clicked a marker.
